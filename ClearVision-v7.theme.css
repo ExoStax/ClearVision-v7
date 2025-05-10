@@ -14,8 +14,8 @@
 /* SETTINGS */
 :root {
   /* ACCENT COLORS */
-  --main-color: #2780e6;
-  --hover-color: #1e63b3;
+  --main-color: #4f02cc;
+  --hover-color: #4f02cc;
   --success-color: #43b581;
   --danger-color: #982929;
   /* STATUS COLORS */
@@ -26,7 +26,7 @@
   --offline-color: #808080;
   /* APP BACKGROUND */
   --background-shading-percent: 100%;
-  --background-image: url(https://clearvision.github.io/images/sapphire.jpg);
+  --background-image: url(https://rarethief.com/wp-content/uploads/2021/06/sea-of-thieves-dark-brethren-tall-tale-complete.png);
   --background-attachment: fixed;
   --background-filter: saturate(calc(var(--saturation-factor, 1) * 1));
   /* USER POPOUT BACKGROUND */
@@ -38,7 +38,7 @@
   --user-modal-attachment: var(--background-attachment);
   --user-modal-filter: var(--background-filter);
   /* HOME ICON */
-  --home-icon: url(https://clearvision.github.io/icons/discord.svg);
+  --home-icon: url(https://stsci-opo.org/STScI-01EVVEWDND4T5B9A60XV9KHSED.png);
   /* FONTS */
   --main-font: "gg sans", Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif;
   --code-font: Consolas, "gg mono", "Liberation Mono", Menlo, Courier, monospace;
